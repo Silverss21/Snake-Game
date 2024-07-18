@@ -48,7 +48,3 @@ This project is licensed under the [MIT License](Licence.txt).
 ## Acknowledgements
 
 The Snake Game application was developed using Python and the Pygame library.
-
-## Contact
-
-For any inquiries or questions, please contact [Ali Almaliki](mailto:alawilmaliki@gmail.com).
